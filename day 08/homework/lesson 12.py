@@ -1,4 +1,4 @@
 teko = True 
 sesili = False
-print(True + False)      
+print(teko + sesili)      
 
